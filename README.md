@@ -328,6 +328,7 @@ You write the rules files, maintain the skills, and paste in the Slack thread yo
 
 - [How Nginx Was Able to Support 1 Million Concurrent Connections on a Single Server](https://newsletter.systemdesign.one/p/how-does-nginx-work)
 - [Networking Concepts - Part 1](https://newsletter.systemdesign.one/p/networking-fundamentals-software-engineers)
+- [Networking Concepts - Part 2](https://newsletter.systemdesign.one/p/computer-networking-fundamentals-for-software-engineers)
 
 #### P technologies
 
